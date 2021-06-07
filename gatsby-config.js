@@ -1,15 +1,15 @@
 module.exports = {
-  pathPrefix: "/leonids",
+  pathPrefix: "/",
   siteMetadata: {
-    title: `Leonids`,
+    title: `Yoshida Tomio`,
     author: {
-      name: `@ry_zou`,
-      summary: `web dev`,
+      name: `@1chiSensei`,
+      summary: `A weeb dev.`,
     },
-    description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://renyuanz.github.io/leonids`,
+    description: `Tomio's blog, containing many guides!`,
+    siteUrl: `https://blog.tomio.codes`,
     social: {
-      twitter: `ry_zou`,
+      twitter: `tomiocodes`,
     },
     defaultImage: "images/bg.jpeg",
   },
